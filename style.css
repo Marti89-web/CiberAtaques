@@ -1,0 +1,148 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+	width: 100%;
+background-color: rgb(7,27,17);
+color: rgb(255,255,255);
+padding: 1em;
+padding-bottom: 1em;
+}
+header img{
+width: 115px;
+margin-left: 46%;
+margin-top: 1%;
+border-radius: 20%;
+	}
+h1{
+	text-align: center;
+	font-family: Arial;
+}
+body{
+	font-family: Arial;
+	background-color: black;
+	color: white;
+	font-size: 17px;
+}
+h2{
+	text-align: center;
+	font-family: Arial;
+}
+section{
+width: 70%;
+margin: 0 auto;
+}
+article h2{
+float: left;
+border-bottom: 2px solid rgb(7,67,57);
+font-size: 1.3em;
+text-transform: uppercase;
+}
+article{
+padding: 20px 0 20px 0;
+border-bottom: 1px dotted darkgrey;
+}
+article p{
+margin-left: 20%;
+}
+article p, article ul{
+margin-left: 40%;
+font-family: Arial;
+color: white;
+line-height: 1.3em;
+margin-bottom: 1.6em;
+	}
+	article ul li{
+		margin-left: 15px;
+		
+
+	}
+	footer{
+		margin-top: 3;
+		padding: 1em;
+		width: 100%;
+		background:rgb(7,27,17);
+		color: azure;
+	}
+	footer a:link{
+		color: azure;
+
+	}
+	footer a:hover{
+		text-decoration: underline;
+		color:rgb(7,147,247);
+	}
+	form{
+		text-align: center;
+	}
+	form h2{
+		text-align: center;
+		font-family: Arial;
+	}
+	u{
+		background-color: rgb(7,27,17);
+		color: white;
+	}
+	#menu ul{
+		list-style: none;
+		margin:0;
+		padding:0;
+		margin-left: 38%;
+		position: absolute;
+		text-align: center;
+	}
+	#menu #item{
+		float: left;
+	}
+	#menu #item a{
+		background-color: black;
+		color: white;
+		padding: 12px 12px;
+		display: block;
+		font-family: Arial;
+		font-size: 16px;
+		text-decoration: none;
+		padding: 50;
+		margin: 50;
+	}
+	#menu #desple{
+		display: none;
+		position: inherit;
+		min-width: 220px;
+	}
+	#menu #item a:hover{
+		background-color: rgb(7,27,17);
+		color:rgb(7,255,255);
+		text-align: center;
+		padding: 5%;
+	}
+	#menu #item:hover #desple{
+		display: block;
+		position: inherit;
+	}
+	a{
+		margin-top: 3;
+		
+		width: 100%;
+		color: rgb(0,50,255);
+	}
+	a:link{
+		color: azure;
+
+	}
+	a:hover{
+		text-decoration: underline;
+		color:rgb(7,147,255);
+	}
+	h4{
+		color: rgb(230,230,230);
+	}
+
+
+
+
+
+
+	
+
